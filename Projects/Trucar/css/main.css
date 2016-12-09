@@ -1,0 +1,59 @@
+body {
+	background: #1A335E;
+	background-size: 100% 100%;
+	width: 100%;
+}
+
+
+#headlogo{
+	width: 150%;
+	height: 180%;
+}
+
+#cover-photo{
+	width: 100%;
+	min-height: 250px;
+}
+
+.navbar{
+	margin-bottom: 0;
+}
+
+.white-bg{
+	background-color: white;
+	width: 0 auto;
+}
+
+.blue-bg{
+	background-color: #1A335E;
+}
+
+.white-text{
+	color: white;
+}
+
+.light-color img{
+	max-height: 150px;
+}
+
+.light-color:hover{
+	background-color: #005b96;
+}
+
+h1,h5, h1 small{
+	color: #286090;
+	font-weight: bold;
+}
+
+.brands-width{
+	width: 80%;
+}
+
+button {
+	border: 1px solid #ddd;
+	padding: 10px;
+}
+
+footer .navbar{
+	margin-bottom: 0;
+}

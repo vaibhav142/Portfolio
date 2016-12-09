@@ -1,0 +1,61 @@
+body {
+	background: #1A335E url("../images/bg.jpg") 0% 0% no-repeat fixed;
+	background-size: 100% 100%;
+	width: 100%;
+	margin-top: 2em;
+	margin-bottom: 5em;
+}
+
+.white-bg{
+	background-color: white;
+}
+
+.off-white-bg{
+	background-color: #ccccff;
+}
+
+.blue-text{
+	color: 	#337ab7;
+	font-weight: bold;
+}
+
+#eighty-perc-width{
+	width: 80%;
+	margin-bottom: 2em;
+}
+
+#me{
+	border-radius: 50%;
+	padding-top: 2em;
+	margin-bottom: 1em;
+}
+
+.nav{
+	padding-left: 2em;
+}
+
+#eighty-perc-width button{
+	margin-bottom: 1em;
+}
+
+.translucent-bg{
+	background-color: rgba(255,255,255,0.9);
+	border-radius: 5px;
+}
+
+.table-scroll{
+	overflow-x: scroll;
+}
+
+#messages img, #settings img{
+	padding-top: 0;
+	border-radius: 2px;
+}
+
+#Portfolio{
+	padding-top: 2em;
+}
+
+.projects{
+	padding-top: 2em;
+}
