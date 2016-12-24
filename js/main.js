@@ -1,5 +1,5 @@
-$(document).ready(function butt() {
+$(document).ready(function() {
 	
-$("body").addClass("animated hinge");
+	$("body").addClass("animated hinge");
 
 })
